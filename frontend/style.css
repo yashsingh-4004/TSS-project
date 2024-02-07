@@ -1,1018 +1,952 @@
-*{
-    margin:0px;
-    padding:0px;
-    font-family:Arial, Helvetica, sans-serif;
-    border:border-box;
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: border-box;
 }
 
 /* Top red Navbar */
 
 /* 1. Gender Section */
 
-.Top-Red-Navbar{
-    height:45px;
-    width:100%;
-    background-color:#E11B23;
-    display:flex;
-    justify-content:space-evenly;
-    align-items:center;
+.Top-Red-Navbar {
+  height: 45px;
+  width: 100%;
+  background-color: #e11b23;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
-.Gender-Section{
-    display:flex;
+.Gender-Section {
+  display: flex;
 }
 
-.Gender-Section button{
-    height:45px;
-    width:112px;
-    background-color:#ED2D2F;
-    color:white;
-    font-size:15px; 
-    font-weight:bold;
-    border:0px;
+.Gender-Section button {
+  height: 45px;
+  width: 112px;
+  background-color: #ed2d2f;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  border: 0px;
 }
 
-.Gender-Section a{
-    color:white;
-    text-decoration:none;
+.Gender-Section a {
+  color: white;
+  text-decoration: none;
 }
 
-.Gender-Section button:focus{
-    background-color:white;
-    color:black;
+.Gender-Section button:focus {
+  background-color: white;
+  color: black;
 }
 
-.Women-Section{
-    border-left:1px solid black;
-    border-right:1px solid black;
+.Women-Section {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
 }
 
-.Kids-Section{
-    border-left:1px solid black;
-    border-right:1px solid black;
+.Kids-Section {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
 }
-
 
 /* 2. Other Options Section */
 
-.Other-opt a{
-    text-decoration:none;
-    color:white;
-    font-size:15px;
-    margin-left:20px;
-    position:relative;
-    left:70px;
+.Other-opt a {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+  margin-left: 20px;
+  position: relative;
+  left: 70px;
 }
-
-
-
-
 
 /* Top White Navbar */
 
-.Top-White-Navbar{
-    height:100px;
-    width:100%;
-    background-color:white;
-    display:flex;
+.Top-White-Navbar {
+  height: 100px;
+  width: 100%;
+  background-color: white;
+  display: flex;
 }
 
-.Top-White-Navbar button:hover{
-    border-bottom:5px solid red;
+.Top-White-Navbar button:hover {
+  border-bottom: 5px solid red;
 }
-
 
 /* 1. Logo */
 
-.logo img{
-    height:100px;
+.logo img {
+  height: 100px;
 }
 
 /* 2. White-Navbar-opt */
 
-.White-Navbar-opt{
-    display:flex;
+.White-Navbar-opt {
+  display: flex;
 }
 
-.White-Navbar-opt button{
-    height:60px;
-    width:100px;
-    border:none;
-    border-bottom:5px solid white;
-    margin-left:25px;
-    font-size:13px;
-    font-weight:700;
-    color:#58595B;
-    background-color:white;
-} 
-
-.WinterWear button{
-    cursor: pointer;
+.White-Navbar-opt button {
+  height: 60px;
+  width: 100px;
+  border: none;
+  border-bottom: 5px solid white;
+  margin-left: 25px;
+  font-size: 13px;
+  font-weight: 700;
+  color: #58595b;
+  background-color: white;
 }
 
-.WinterWear a{
-    display: block;
-    text-decoration:none;
-    padding:5px 5px;
-    padding-left:10px;
-    font-size:15;
+.WinterWear button {
+  cursor: pointer;
 }
 
-.WinterWear .content{
-    display:none;
-    position: absolute;
-    background-color: white;
-    width:200px;
-    box-shadow:2px 2px 5px grey;
-    z-index:1;   
+.WinterWear a {
+  display: block;
+  text-decoration: none;
+  padding: 5px 5px;
+  padding-left: 10px;
+  font-size: 15;
 }
 
-.WinterWear:hover .content{
-    display:block;
-    display:flex;
-    flex-direction: column;
-    align-items: center;
+.WinterWear .content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  width: 200px;
+  box-shadow: 2px 2px 5px grey;
+  z-index: 1;
 }
 
-.W-link:hover{
-    color:#E11B23;
+.WinterWear:hover .content {
+  display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-
-
+.W-link:hover {
+  color: #e11b23;
+}
 
 /* 3.Other-White-Navbar-opt */
 
-.Other-White-Navbar-opt{
-    display:flex;
-    margin-left:25px;
+.Other-White-Navbar-opt {
+  display: flex;
+  margin-left: 25px;
 }
 
-.Other-White-Navbar-opt button{
-    height:65px;
-    width:50px;
-    margin-left:15px;
-    font-size:25px;
-    border:none;
-    border-bottom:5px solid white;
-    background-color:white;
+.Other-White-Navbar-opt button {
+  height: 65px;
+  width: 50px;
+  margin-left: 15px;
+  font-size: 25px;
+  border: none;
+  border-bottom: 5px solid white;
+  background-color: white;
 }
-
-
-
-
 
 /* Main Section */
 
 /* 1. Image Slider */
 
-.Image-Slider{
-    width:100%;
-    height:466px;
-    background-color:gray;
-    position: relative;
-    overflow:hidden;
+.Image-Slider {
+  width: 100%;
+  height: 466px;
+  background-color: gray;
+  position: relative;
+  overflow: hidden;
 }
 
-.slide{
-    height:466px;
-    width:100%;
-    position:absolute;
-    transition:1s;
+.slide {
+  height: 466px;
+  width: 100%;
+  position: absolute;
+  transition: 1s;
 }
 
-.nav{
-    text-align: center;
-    height:0px;
+.nav {
+  text-align: center;
+  height: 0px;
 }
 
-.PrevBtn{
-    position:relative;
-    bottom:257px;
-    right:620px;
-    background-color:transparent;
-    color:white;
-    height:55px;
-    width:40px;
-    font-size:25px;
-    border:none;
-    font-weight: bolder;
+.PrevBtn {
+  position: relative;
+  bottom: 257px;
+  right: 620px;
+  background-color: transparent;
+  color: white;
+  height: 55px;
+  width: 40px;
+  font-size: 25px;
+  border: none;
+  font-weight: bolder;
 }
 
-.NextBtn{
-    position:relative;
-    bottom:257px;
-    left:620px;
-    background-color:transparent;
-    color:white;
-    height:55px;
-    width:40px;
-    font-size:25px;
-    border:none;
+.NextBtn {
+  position: relative;
+  bottom: 257px;
+  left: 620px;
+  background-color: transparent;
+  color: white;
+  height: 55px;
+  width: 40px;
+  font-size: 25px;
+  border: none;
 }
-
-
-
-
 
 /* Categories Section */
 
-.Categories-section{
-    height:1140px;
-    width:100%;
-    /* background-color: grey; */
+.Categories-section {
+  height: 1140px;
+  width: 100%;
+  /* background-color: grey; */
 }
 
-.cats-h3{
-    width:100%;
-    margin-top:20px;
-    font-size:30px;
-    display:flex;
-    justify-content:center;
+.cats-h3 {
+  width: 100%;
+  margin-top: 20px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
 }
 
-.Categories{
-    display:flex;
-    justify-content: space-around;
-    margin-top:10px;
+.Categories {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
 }
 
-
-.Categories div{
-    height:450px;
-    width:430px;
-    /* background-color:red; */
-    /* border:2px solid black; */
+.Categories div {
+  height: 450px;
+  width: 430px;
+  /* background-color:red; */
+  /* border:2px solid black; */
 }
 
-.more-cats{
-    display:flex;
-    justify-content: space-around;
-    margin-top:15px;
-    flex-wrap: wrap;
+.more-cats {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+  flex-wrap: wrap;
 }
 
-.more-cats div{
-    height:320px;
-    width:320px;
-    /* background-color:red; */
-    /* border:2px solid black; */
-    margin-top:10px;
+.more-cats div {
+  height: 320px;
+  width: 320px;
+  /* background-color:red; */
+  /* border:2px solid black; */
+  margin-top: 10px;
 }
 
-
-.sweatshirt{
-    background-image:url(images/Categories/Sweatshirt.webp);
-    background-size: cover;
+.sweatshirt {
+  background-image: url(images/Categories/Sweatshirt.webp);
+  background-size: cover;
 }
 
-.hoodies{
-    background-image:url(images/Categories/Hoodies.webp);
-    background-size: cover;
+.hoodies {
+  background-image: url(images/Categories/Hoodies.webp);
+  background-size: cover;
 }
 
-.jackets{
-    background-image:url(images/Categories/Jackets.webp);
-    background-size: cover;
+.jackets {
+  background-image: url(images/Categories/Jackets.webp);
+  background-size: cover;
 }
 
-
-.OS-full-sleeve-tees{
-    background-image:url(images/Categories/OS-full-sleeve-tees.webp);
-    background-size: cover;
+.OS-full-sleeve-tees {
+  background-image: url(images/Categories/OS-full-sleeve-tees.webp);
+  background-size: cover;
 }
 
-.shirt{
-    background-image:url(images/Categories/Shirts.webp);
-    background-size: cover;
+.shirt {
+  background-image: url(images/Categories/Shirts.webp);
+  background-size: cover;
 }
 
-.sneakers{
-    background-image:url(images/Categories/Sneakers.webp);
-    background-size: cover;
+.sneakers {
+  background-image: url(images/Categories/Sneakers.webp);
+  background-size: cover;
 }
 
-.OS-tees{
-    background-image:url(images/Categories/OS-tees.webp);
-    background-size: cover;
+.OS-tees {
+  background-image: url(images/Categories/OS-tees.webp);
+  background-size: cover;
 }
 
-.tees{
-    background-image:url(images/Categories/tees.webp);
-    background-size: cover;
+.tees {
+  background-image: url(images/Categories/tees.webp);
+  background-size: cover;
 }
 
-.cargo-pants{
-    background-image:url(images/Categories/Cargo-pants.webp);
-    background-size: cover;
+.cargo-pants {
+  background-image: url(images/Categories/Cargo-pants.webp);
+  background-size: cover;
 }
 
-.OS-polos{
-    background-image:url(images/Categories/OS-polos.webp);
-    background-size: cover;
+.OS-polos {
+  background-image: url(images/Categories/OS-polos.webp);
+  background-size: cover;
 }
 
-.jeans{
-    background-image:url(images/Categories/Jeans.webp);
-    background-size: cover;
+.jeans {
+  background-image: url(images/Categories/Jeans.webp);
+  background-size: cover;
 }
-
-
-
-
 
 /* New Arrival Section */
 
-.NewArrival-h3{
-    width:100%;
-    margin-top:50px;
-    font-size:30px;
-    display:flex;
-    justify-content:center;
+.NewArrival-h3 {
+  width: 100%;
+  margin-top: 50px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
 }
 
-.New-Arrivals-Divslider{
-    height:502px;
-    width:100%;
-    /* background-color:gray; */
-    position: relative;
-    overflow:hidden;
-    margin-top:20px;
+.New-Arrivals-Divslider {
+  height: 502px;
+  width: 100%;
+  /* background-color:gray; */
+  position: relative;
+  overflow: hidden;
+  margin-top: 20px;
 }
 
-.divSlide-G1{
-    height:500px;
-    width:100%;
-    /* background-color:aqua; */
-    /* border:2px solid black; */
+.divSlide-G1 {
+  height: 500px;
+  width: 100%;
+  /* background-color:aqua; */
+  /* border:2px solid black; */
 }
 
-.divSlide-G2{
-    height:500px;
-    width:100%;
-    /* background-color:aqua; */
-    /* border:2px solid black; */
+.divSlide-G2 {
+  height: 500px;
+  width: 100%;
+  /* background-color:aqua; */
+  /* border:2px solid black; */
 }
 
-.divSlide{
-    position: absolute;
-    transition:1s;
+.divSlide {
+  position: absolute;
+  transition: 1s;
 }
 
-.divnav{
-    text-align:center;
-    height:0px;
+.divnav {
+  text-align: center;
+  height: 0px;
 }
 
-.New-Arrivals-Divslider .divSlide{
-    display:flex;
-    justify-content: space-evenly;
+.New-Arrivals-Divslider .divSlide {
+  display: flex;
+  justify-content: space-evenly;
 }
 
-.New-Arrivals-Divslider .divSlide .prods{
-    height:475px;
-    width:300px;
-    /* border:2px solid black; */
-    margin-top:10px;
+.New-Arrivals-Divslider .divSlide .prods {
+  height: 475px;
+  width: 300px;
+  /* border:2px solid black; */
+  margin-top: 10px;
 }
 
-.prodImgdiv{
-    height:382px;
-    width:275px;
-    /* border:2px solid black; */
-    margin-top:10px;
-    margin-left:10px;
-    margin-right:10px;
+.prodImgdiv {
+  height: 382px;
+  width: 275px;
+  /* border:2px solid black; */
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
-.prodInfodiv{
-    height:70px;
-    width:275px;
-    /* border:2px solid black; */
-    margin-top:3px;
-    margin-left:10px;
-    margin-right:10px;
+.prodInfodiv {
+  height: 70px;
+  width: 275px;
+  /* border:2px solid black; */
+  margin-top: 3px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
-.New-Arrivals-Divslider .divSlide .prods .prodInfodiv p{
-    margin-top:5px;
-    font-weight:600;
-    font-style:ariel;
-    font-size:15px;
-    color:black
+.New-Arrivals-Divslider .divSlide .prods .prodInfodiv p {
+  margin-top: 5px;
+  font-weight: 600;
+  font-style: ariel;
+  font-size: 15px;
+  color: black;
 }
 
-.prod-disc{
-    color:red;
-    position: absolute;
-    top:446px;
-    left:150px;
+.prod-disc {
+  color: red;
+  position: absolute;
+  top: 446px;
+  left: 150px;
 }
 
-.divnav button{
-    height:55px;
-    width:40px;
-    font-size:50px;
-    background-color:transparent;
-    border:none;
-    color:grey;
+.divnav button {
+  height: 55px;
+  width: 40px;
+  font-size: 50px;
+  background-color: transparent;
+  border: none;
+  color: grey;
 }
 
-.New-Arrival-div-Goprev{
-    position: relative;
-    bottom:265px;
-    right:615px;
+.New-Arrival-div-Goprev {
+  position: relative;
+  bottom: 265px;
+  right: 615px;
 }
 
-.New-Arrival-div-Gonext{
-    position: relative;
-    bottom:265px;
-    left:615px;
+.New-Arrival-div-Gonext {
+  position: relative;
+  bottom: 265px;
+  left: 615px;
 }
 
-.prod-image1{
-    background-image:url(images/New-Arrivals/prod1.webp);
-    background-size: cover;
+.prod-image1 {
+  background-image: url(images/New-Arrivals/prod1.webp);
+  background-size: cover;
 }
 
-.prod-image2{
-    background-image:url(images/New-Arrivals/prod2.webp);
-    background-size: cover;
+.prod-image2 {
+  background-image: url(images/New-Arrivals/prod2.webp);
+  background-size: cover;
 }
 
-.prod-image3{
-    background-image:url(images/New-Arrivals/prod3.webp);
-    background-size: cover;
+.prod-image3 {
+  background-image: url(images/New-Arrivals/prod3.webp);
+  background-size: cover;
 }
 
-.prod-image4{
-    background-image:url(images/New-Arrivals/prod4.webp);
-    background-size: cover;
+.prod-image4 {
+  background-image: url(images/New-Arrivals/prod4.webp);
+  background-size: cover;
 }
 
-.prod-image5{
-    background-image:url(images/New-Arrivals/prod5.webp);
-    background-size: cover;
+.prod-image5 {
+  background-image: url(images/New-Arrivals/prod5.webp);
+  background-size: cover;
 }
 
-.prod-image6{
-    background-image:url(images/New-Arrivals/prod6.webp);
-    background-size: cover;
+.prod-image6 {
+  background-image: url(images/New-Arrivals/prod6.webp);
+  background-size: cover;
 }
 
-.prod-image7{
-    background-image:url(images/New-Arrivals/prod7.webp);
-    background-size: cover;
+.prod-image7 {
+  background-image: url(images/New-Arrivals/prod7.webp);
+  background-size: cover;
 }
 
-.prod-image8{
-    background-image:url(images/New-Arrivals/prod8.webp);
-    background-size: cover;
+.prod-image8 {
+  background-image: url(images/New-Arrivals/prod8.webp);
+  background-size: cover;
 }
 
-.divSlide-G1 a{
-    text-decoration:none;
+.divSlide-G1 a {
+  text-decoration: none;
 }
-
-
-
 
 /* Shop By Fandom Section */
 
-.shopByFandom{
-    height:448px;
-    width:100%;
-    /* background-color:gray; */
-    position: relative;
-    overflow: hidden;
+.shopByFandom {
+  height: 448px;
+  width: 100%;
+  /* background-color:gray; */
+  position: relative;
+  overflow: hidden;
 }
 
-.shopByFandom-h3{
-    width:100%;
-    margin-top:10px;
-    font-size:30px;
-    display:flex;
-    justify-content:center;
+.shopByFandom-h3 {
+  width: 100%;
+  margin-top: 10px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
 }
 
-.fandomDiv{
-    height:400px;
-    width:100%;
-    /* background-color:aqua; */
-    /* border:2px solid black; */
-    margin-top:10px;
-    position: absolute;
-    transition: 1s;
-    display: flex;
-    justify-content: space-around;
+.fandomDiv {
+  height: 400px;
+  width: 100%;
+  /* background-color:aqua; */
+  /* border:2px solid black; */
+  margin-top: 10px;
+  position: absolute;
+  transition: 1s;
+  display: flex;
+  justify-content: space-around;
 }
 
-.fandom-prod{
-    height:390px;
-    width:400px;
-    /* border:2px solid black; */
+.fandom-prod {
+  height: 390px;
+  width: 400px;
+  /* border:2px solid black; */
 }
 
-.naruto{
-    background-image:url(images/Shop-by-fandom/Naruto.webp);
-    background-size:cover;
+.naruto {
+  background-image: url(images/Shop-by-fandom/Naruto.webp);
+  background-size: cover;
 }
 
-.batman{
-    background-image:url(images/Shop-by-fandom/batman.webp);
-    background-size:cover;
+.batman {
+  background-image: url(images/Shop-by-fandom/batman.webp);
+  background-size: cover;
 }
 
-.black-panther{
-    background-image:url(images/Shop-by-fandom/Black_panther.webp);
-    background-size:cover;
+.black-panther {
+  background-image: url(images/Shop-by-fandom/Black_panther.webp);
+  background-size: cover;
 }
 
-.Rickandmorty{
-    background-image:url(images/Shop-by-fandom/Rick&Morty.webp);
-    background-size:cover;
+.Rickandmorty {
+  background-image: url(images/Shop-by-fandom/Rick&Morty.webp);
+  background-size: cover;
 }
 
-.Harry-potter{
-    background-image:url(images/Shop-by-fandom/Harry_potter.webp);
-    background-size:cover;
+.Harry-potter {
+  background-image: url(images/Shop-by-fandom/Harry_potter.webp);
+  background-size: cover;
 }
 
-.spiderman{
-    background-image:url(images/Shop-by-fandom/Spiderman.webp);
-    background-size:cover;
+.spiderman {
+  background-image: url(images/Shop-by-fandom/Spiderman.webp);
+  background-size: cover;
 }
 
-.fandom-divnav button{
-    height:55px;
-    width:40px;
-    font-size:50px;
-    background-color:transparent;
-    border:none;
-    color:grey;
+.fandom-divnav button {
+  height: 55px;
+  width: 40px;
+  font-size: 50px;
+  background-color: transparent;
+  border: none;
+  color: grey;
 }
 
-.fandom-div-Goprev{
-    position: relative;
-    bottom:215px;
-    left:20px;
+.fandom-div-Goprev {
+  position: relative;
+  bottom: 215px;
+  left: 20px;
 }
 
-.fandom-div-Gonext{
-    position: relative;
-    bottom:215px;
-    left:1245px;
+.fandom-div-Gonext {
+  position: relative;
+  bottom: 215px;
+  left: 1245px;
 }
-
-
-
-
 
 /* Footer Section */
 
-footer{
-    /* background-color:grey; */
-    height:900px;
-    width:100%;
+footer {
+  /* background-color:grey; */
+  height: 900px;
+  width: 100%;
 }
 
-.red-Footer-hbar{
-    background-color:#E71318;
-    height:65px;
-    width:100%;
-    display:flex;
-    justify-content:center;
-    align-items: center;
+.red-Footer-hbar {
+  background-color: #e71318;
+  height: 65px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.red-Footer-hbar p{
-    font-size:45px;
-    color:white;
+.red-Footer-hbar p {
+  font-size: 45px;
+  color: white;
 }
 
-.white-footer-hbar{
-    height:85px;
-    width:100%;
-    display:flex;
-    justify-content:center;
-    align-items:center;
+.white-footer-hbar {
+  height: 85px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.white-footer-hbar p{
-    font-size:55px;
+.white-footer-hbar p {
+  font-size: 55px;
 }
-
 
 /* Footer Links */
 
-.footer-links{
-    display:flex;
-    justify-content: space-evenly;
+.footer-links {
+  display: flex;
+  justify-content: space-evenly;
 }
 
-.footer-links a{
-    text-decoration:none;
-    color:#58595B;
-    font-weight: bold;
+.footer-links a {
+  text-decoration: none;
+  color: #58595b;
+  font-weight: bold;
 }
 
-.footer-links h6{
-    color:#ed2e30;
-    font-size:20px;
+.footer-links h6 {
+  color: #ed2e30;
+  font-size: 20px;
 }
 
-.footer-links ul{
-    margin-top:15px;
+.footer-links ul {
+  margin-top: 15px;
 }
 
-.footer-links li{
-    list-style-type:none;
+.footer-links li {
+  list-style-type: none;
 }
 
-.footer-links div{
-    margin-top:50px;
+.footer-links div {
+  margin-top: 50px;
 }
-
-
-
-
-
-
-
-
 
 /* Login Page */
 
-.Login-section{
-    height:540px;
-    width:100%;
-    background-color:#e6e7e8;
-    display:flex;
-    justify-content:center;
-    align-items:center;
+.Login-section {
+  height: 540px;
+  width: 100%;
+  background-color: #e6e7e8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.White-box{
-    height:500px;
-    width:450px;
-    background-color:white;
-    display:flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: center;
+.White-box {
+  height: 500px;
+  width: 450px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
-.off-white-box{
-    height:280px;
-    width:400px;
-    background-color:#f1f1f2;
-    display:flex;
-    flex-direction:column;
-    justify-content:space-evenly;
-    align-items: center;
-    border:1px solid gray;
+.off-white-box {
+  height: 280px;
+  width: 400px;
+  background-color: #f1f1f2;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 1px solid gray;
 }
 
-.login-button{
-    height:40px;
-    width:250px;
-    border-radius:8px;
-    border:1px solid black;
-    font-size:15px;
-    font-weight: bold;
-    color:#58595B
+.login-button {
+  height: 40px;
+  width: 250px;
+  border-radius: 8px;
+  border: 1px solid black;
+  font-size: 15px;
+  font-weight: bold;
+  color: #58595b;
 }
 
-.login-page-text{
-    font-size:18px;
-    font-weight:bold;
-    color:#58595B
+.login-page-text {
+  font-size: 18px;
+  font-weight: bold;
+  color: #58595b;
 }
 
-.form{
-    display:flex;
-    flex-direction: column;
+.form {
+  display: flex;
+  flex-direction: column;
 }
 
-.Phone-number{
-    height:40px;
-    width:280px;
-    border-radius:8px;
-    border:1px solid black;
-    margin-bottom:25px;
+.login-input {
+  height: 40px;
+  width: 280px;
+  border-radius: 8px;
+  border: 1px solid black;
+  margin-bottom: 25px;
+  padding: 0 10px;
 }
 
-.proceed-btn{
-    width:280px;
-    height:40px;
-    background-color: #ED2D2F;
-    color:white;
-    border:none;
-    font-size:20px;
+.proceed-btn {
+  width: 280px;
+  height: 40px;
+  background-color: #ed2d2f;
+  color: white;
+  border: none;
+  font-size: 20px;
 }
 
-.facebook-login{
-    height:50px;
-    width:135px;
-    /* text-decoration:none; */
+.facebook-login {
+  height: 50px;
+  width: 135px;
+  /* text-decoration:none; */
 }
 
-.Google-login{
-    height:50px;
-    width:135px;
+.Google-login {
+  height: 50px;
+  width: 135px;
 }
 
-.Login-btns a{
-    text-decoration:none;
-    color:black;
+.Login-btns a {
+  text-decoration: none;
+  color: black;
 }
 
-.Top-White-Navbar a{
-    text-decoration:none;
-    color:black;
+.Top-White-Navbar a {
+  text-decoration: none;
+  color: black;
 }
-
-
-
-
-
-
-
-
-
 
 /* All winter Wear Section */
 
-.Main-img-section{
-    height:546px;
-    width:100%;
-    /* background-color:gray; */
-    background-image: url(images/All-Winter-Wear/main-webpage-image/main.webp);
+.Main-img-section {
+  height: 546px;
+  width: 100%;
+  /* background-color:gray; */
+  background-image: url(images/All-Winter-Wear/main-webpage-image/main.webp);
 }
-
 
 /* About our Collection Section */
 
-.About-our-collection{
-    height:350px;
-    width:100%;
-    /* background-color:gray; */
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
+.About-our-collection {
+  height: 350px;
+  width: 100%;
+  /* background-color:gray; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
-.heading1{
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    font-size:35px;
+.heading1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
 }
 
-.collection-details{
-    display:flex;
-    justify-content:space-evenly;
-    align-items:center;
-    margin-top:40px;
+.collection-details {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 40px;
 }
 
-.detail{
-    height:170px;
-    width:20%;
-    /* border:2px solid black; */
-    border-radius:90px;
+.detail {
+  height: 170px;
+  width: 20%;
+  /* border:2px solid black; */
+  border-radius: 90px;
 }
 
-.detail1{
-    background-image:url(images/All-Winter-Wear/About-collection-Images/img1.webp);
-    background-size:cover;
+.detail1 {
+  background-image: url(images/All-Winter-Wear/About-collection-Images/img1.webp);
+  background-size: cover;
 }
 
-.detail2{
-    background-image:url(images/All-Winter-Wear/About-collection-Images/img2.webp);
-    background-size:cover;
+.detail2 {
+  background-image: url(images/All-Winter-Wear/About-collection-Images/img2.webp);
+  background-size: cover;
 }
 
-.detail3{
-    background-image:url(images/All-Winter-Wear/About-collection-Images/img3.webp);
-    background-size:cover;
+.detail3 {
+  background-image: url(images/All-Winter-Wear/About-collection-Images/img3.webp);
+  background-size: cover;
 }
 
-.detail4{
-    background-image:url(images/All-Winter-Wear/About-collection-Images/img4.webp);
-    background-size:cover;
+.detail4 {
+  background-image: url(images/All-Winter-Wear/About-collection-Images/img4.webp);
+  background-size: cover;
 }
-
-
-
 
 /* Explore our collection section */
 
-.Explore-our-collection{
-    height:530px;
-    width:100%;
-    /* background-color:gray; */
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
+.Explore-our-collection {
+  height: 530px;
+  width: 100%;
+  /* background-color:gray; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
-.collection-buttons{
-    display:flex;
-    justify-content:space-evenly;
-    align-items:center;
-    margin-top:40px;
-    cursor: pointer;
+.collection-buttons {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 40px;
+  cursor: pointer;
 }
 
-.btn{
-    height:370px;
-    width:290px;
-    /* border:2px solid black; */
-    display: flex;
-    justify-content:center;
-    align-items:center;
-    flex-direction: column;
+.btn {
+  height: 370px;
+  width: 290px;
+  /* border:2px solid black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
-.img-div{
-    height:292px;
-    width:243px;
-    /* background-color:red; */
+.img-div {
+  height: 292px;
+  width: 243px;
+  /* background-color:red; */
 }
 
-.CB-headings{
-    height:59px;
-    width:280px;
-    /* background-color:blue; */
-    /* border:1px solid black; */
-    margin-top:7px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size:15px;
+.CB-headings {
+  height: 59px;
+  width: 280px;
+  /* background-color:blue; */
+  /* border:1px solid black; */
+  margin-top: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
 }
 
-.h-and-s-img{
-    background-image:url(images/All-Winter-Wear/Explore-collections-images/H&S.webp);
-    background-size:cover;
+.h-and-s-img {
+  background-image: url(images/All-Winter-Wear/Explore-collections-images/H&S.webp);
+  background-size: cover;
 }
 
-.jackets-img{
-    background-image:url(images/All-Winter-Wear/Explore-collections-images/Jacks.webp);
-    background-size:cover;
+.jackets-img {
+  background-image: url(images/All-Winter-Wear/Explore-collections-images/Jacks.webp);
+  background-size: cover;
 }
 
-.OS-fs-img{
-    background-image:url(images/All-Winter-Wear/Explore-collections-images/OS-FS.webp);
-    background-size:cover;
+.OS-fs-img {
+  background-image: url(images/All-Winter-Wear/Explore-collections-images/OS-FS.webp);
+  background-size: cover;
 }
 
-.j-and-p-img{
-    background-image:url(images/All-Winter-Wear/Explore-collections-images/J&P.webp);
-    background-size:cover;
+.j-and-p-img {
+  background-image: url(images/All-Winter-Wear/Explore-collections-images/J&P.webp);
+  background-size: cover;
 }
 
-
-
-
-
-.AWW-H-and-S-prods{
-    display:flex;
-    flex-wrap: wrap;
-    justify-content:space-evenly;
+.AWW-H-and-S-prods {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
-.H-and-S-prod{
-    height:400px;
-    width:22%;
-    /* border:2px solid black; */
-    margin-bottom:25px;
-    cursor:pointer;
+.H-and-S-prod {
+  height: 400px;
+  width: 22%;
+  /* border:2px solid black; */
+  margin-bottom: 25px;
+  cursor: pointer;
 }
 
-.H-and-S-prod{
-    display:flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: center;
+.H-and-S-prod {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
-.H-and-S-prod-img{
-    height:300px;
-    width:260px;
-    /* border:1px solid black; */
-    /* background-color:red; */
+.H-and-S-prod-img {
+  height: 300px;
+  width: 260px;
+  /* border:1px solid black; */
+  /* background-color:red; */
 }
 
-.H-and-S-prod-details{
-    height:70px;
-    width:260px;
-    /* border:1px solid black; */
-    /* background-color:blue; */
+.H-and-S-prod-details {
+  height: 70px;
+  width: 260px;
+  /* border:1px solid black; */
+  /* background-color:blue; */
 }
 
-
-
-
-.H-and-S-prod1-img{
-    background-image:url(images/All-Winter-Wear/AWW-prod-imgs/H&S-imgs/H&S-img1.webp);
-    background-size:cover;
-    overflow:hidden;
+.H-and-S-prod1-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/H&S-imgs/H&S-img1.webp);
+  background-size: cover;
+  overflow: hidden;
 }
 
-.H-and-S-prod2-img{
-    background-image:url(images/All-Winter-Wear/AWW-prod-imgs/H&S-imgs/H&S-img2.webp);
-    background-size:cover;
+.H-and-S-prod2-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/H&S-imgs/H&S-img2.webp);
+  background-size: cover;
 }
 
-.H-and-S-prod3-img{
-    background-image:url(images/All-Winter-Wear/AWW-prod-imgs/H&S-imgs/H&S-img3.webp);
-    background-size:cover;
+.H-and-S-prod3-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/H&S-imgs/H&S-img3.webp);
+  background-size: cover;
 }
 
-.H-and-S-prod4-img{
-    background-image:url(images/All-Winter-Wear/AWW-prod-imgs/H&S-imgs/H&S-img4.webp);
-    background-size:cover;
+.H-and-S-prod4-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/H&S-imgs/H&S-img4.webp);
+  background-size: cover;
 }
 
-
-.Jackets-prod1-img{
-    background-image: url(images/All-Winter-Wear/AWW-prod-imgs/JACKET-imgs/JACKET-img1.webp);
-    background-size: cover;
+.Jackets-prod1-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/JACKET-imgs/JACKET-img1.webp);
+  background-size: cover;
 }
 
-.Jackets-prod2-img{
-    background-image: url(images/All-Winter-Wear/AWW-prod-imgs/JACKET-imgs/JACKET-img2.webp);
-    background-size: cover;
+.Jackets-prod2-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/JACKET-imgs/JACKET-img2.webp);
+  background-size: cover;
 }
 
-.Jackets-prod3-img{
-    background-image: url(images/All-Winter-Wear/AWW-prod-imgs/JACKET-imgs/JACKET-img3.webp);
-    background-size: cover;
+.Jackets-prod3-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/JACKET-imgs/JACKET-img3.webp);
+  background-size: cover;
 }
 
-.Jackets-prod4-img{
-    background-image: url(images/All-Winter-Wear/AWW-prod-imgs/JACKET-imgs/JACKET-img4.webp);
-    background-size: cover;
+.Jackets-prod4-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/JACKET-imgs/JACKET-img4.webp);
+  background-size: cover;
 }
 
-
-.OS-FS-prod1-img{
-    background-image:url(images/All-Winter-Wear/AWW-prod-imgs/OS-FS-imgs/OS-FS-img1.webp);
-    background-size: cover;
+.OS-FS-prod1-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/OS-FS-imgs/OS-FS-img1.webp);
+  background-size: cover;
 }
 
-.OS-FS-prod2-img{
-    background-image:url(images/All-Winter-Wear/AWW-prod-imgs/OS-FS-imgs/OS-FS-img2.webp);
-    background-size: cover;
+.OS-FS-prod2-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/OS-FS-imgs/OS-FS-img2.webp);
+  background-size: cover;
 }
 
-.OS-FS-prod3-img{
-    background-image:url(images/All-Winter-Wear/AWW-prod-imgs/OS-FS-imgs/OS-FS-img3.webp);
-    background-size: cover;
+.OS-FS-prod3-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/OS-FS-imgs/OS-FS-img3.webp);
+  background-size: cover;
 }
 
-.OS-FS-prod4-img{
-    background-image:url(images/All-Winter-Wear/AWW-prod-imgs/OS-FS-imgs/OS-FS-img4.webp);
-    background-size: cover;
+.OS-FS-prod4-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/OS-FS-imgs/OS-FS-img4.webp);
+  background-size: cover;
 }
 
-
-.J-and-P-prod1-img{
-    background-image:url(images/All-Winter-Wear/AWW-prod-imgs/J&P-imgs/J&P-img1.webp);
-    background-size: cover;
+.J-and-P-prod1-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/J&P-imgs/J&P-img1.webp);
+  background-size: cover;
 }
 
-.J-and-P-prod2-img{
-    background-image:url(images/All-Winter-Wear/AWW-prod-imgs/J&P-imgs/J&P-img2.webp);
-    background-size: cover;
+.J-and-P-prod2-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/J&P-imgs/J&P-img2.webp);
+  background-size: cover;
 }
 
-.J-and-P-prod3-img{
-    background-image:url(images/All-Winter-Wear/AWW-prod-imgs/J&P-imgs/J&P-img3.webp);
-    background-size: cover;
+.J-and-P-prod3-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/J&P-imgs/J&P-img3.webp);
+  background-size: cover;
 }
 
-.J-and-P-prod4-img{
-    background-image:url(images/All-Winter-Wear/AWW-prod-imgs/J&P-imgs/J&P-img4.webp);
-    background-size: cover;
+.J-and-P-prod4-img {
+  background-image: url(images/All-Winter-Wear/AWW-prod-imgs/J&P-imgs/J&P-img4.webp);
+  background-size: cover;
 }
 
-
-
-
-.H-and-S-prod-details{
-    display:flex;
-    flex-direction: column;
-    justify-content:center;
+.H-and-S-prod-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
-.H-and-S-prod-details p{
-    margin-bottom:5px;
+.H-and-S-prod-details p {
+  margin-bottom: 5px;
 }
 
-.prod-section{
-    font-size:13px;
+.prod-section {
+  font-size: 13px;
 }
-

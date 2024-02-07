@@ -1,0 +1,1189 @@
+{
+  "products": [
+    {
+      "id": "246763",
+      "product": "Dungeons & Dragons: Roll",
+      "artist": {
+        "name": "Dungeons & Dragons",
+        "slug": "dungeons-and-dragons"
+      },
+      "category": {
+        "name": "T-Shirts"
+      },
+      "price": 599,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 0,
+      "ratingCount": 0,
+      "prodQty": 907,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 549,
+      "sortOrder": 100,
+      "images": [
+        "1707113577_8203197.jpg?v=2",
+        "1707113616_9312300.jpg?v=2",
+        "1707113616_8271218.jpg?v=2",
+        "1707113616_1670627.jpg?v=2",
+        "1707113616_8550975.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1707113577_8203197.jpg?v=2\", \"1707113616_9312300.jpg?v=2\", \"1707113616_8271218.jpg?v=2\", \"1707113616_1670627.jpg?v=2\", \"1707113616_8550975.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "d-and-d-roll-t-shirts",
+      "tiptiles": null
+    },
+    {
+      "id": "252551",
+      "product": "Fighter: SU 30",
+      "artist": {
+        "name": "Fighter",
+        "slug": "fighter"
+      },
+      "category": {
+        "name": "T-Shirts"
+      },
+      "price": 599,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.71,
+      "ratingCount": 7,
+      "prodQty": 474,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 549,
+      "sortOrder": 101,
+      "images": [
+        "1705739176_9304239.jpg?v=2",
+        "1705739191_1581171.jpg?v=2",
+        "1705739191_5493606.jpg?v=2",
+        "1705739191_6976124.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1705739176_9304239.jpg?v=2\", \"1705739191_1581171.jpg?v=2\", \"1705739191_5493606.jpg?v=2\", \"1705739191_6976124.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "fighter-su-30-t-shirts",
+      "tiptiles": null
+    },
+    {
+      "id": "236906",
+      "product": "Rick and Morty: Higher Self (Acid Wash)",
+      "artist": {
+        "name": "Rick and Morty",
+        "slug": "rick-and-morty-official-merchandise"
+      },
+      "category": {
+        "name": "T-Shirts"
+      },
+      "price": 749,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 0,
+      "ratingCount": 0,
+      "prodQty": 488,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 699,
+      "sortOrder": 103,
+      "images": [
+        "1707111096_7447703.jpg?v=2",
+        "1707111113_5529492.jpg?v=2",
+        "1707111128_2040006.jpg?v=2",
+        "1707111148_9950919.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1707111096_7447703.jpg?v=2\", \"1707111113_5529492.jpg?v=2\", \"1707111128_2040006.jpg?v=2\", \"1707111148_9950919.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "rick-and-morty-higher-self-men-t-shirts",
+      "tiptiles": null
+    },
+    {
+      "id": "225347",
+      "product": "Batman: Gotham Guardian",
+      "artist": {
+        "name": "DC Comics",
+        "slug": "dc-justice-league-official-merchandise"
+      },
+      "category": {
+        "name": "Oversized T-Shirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.45,
+      "ratingCount": 268,
+      "prodQty": 2141,
+      "prodType": 3,
+      "splPrice": 899,
+      "exclusivePrice": 799,
+      "sortOrder": 500,
+      "images": [
+        "1688363296_3437871.jpg?v=2",
+        "1687421163_3808317.jpg?v=2",
+        "1687421163_5670574.jpg?v=2",
+        "1687421163_7647825.jpg?v=2",
+        "1699362546_4958136.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1688363296_3437871.jpg?v=2\", \"1687421163_3808317.jpg?v=2\", \"1687421163_5670574.jpg?v=2\", \"1687421163_7647825.jpg?v=2\", \"1699362546_4958136.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "batman-gotham-guardian-oversized-tshirts",
+      "tiptiles": null
+    },
+    {
+      "id": "251646",
+      "product": "Solids: Coffee Brown",
+      "artist": {
+        "name": "The Souled Store",
+        "slug": "the-souled-store-originals"
+      },
+      "category": {
+        "name": "T-Shirts"
+      },
+      "price": 499,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4,
+      "ratingCount": 6,
+      "prodQty": 1324,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 449,
+      "sortOrder": 515,
+      "images": [
+        "1706338919_4960000.jpg?v=2",
+        "1706338919_5817525.jpg?v=2",
+        "1706338919_9789105.jpg?v=2",
+        "1706338919_2860067.jpg?v=2",
+        "1707124137_8816494.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1706338919_4960000.jpg?v=2\", \"1706338919_5817525.jpg?v=2\", \"1706338919_9789105.jpg?v=2\", \"1706338919_2860067.jpg?v=2\", \"1707124137_8816494.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "solids-coffee-brown-t-shirts",
+      "tiptiles": null
+    },
+    {
+      "id": "234347",
+      "product": "Avatar: Aang And Appa",
+      "artist": {
+        "name": "Avatar: The Last Airbender",
+        "slug": "avatar-the-last-airbender"
+      },
+      "category": {
+        "name": "Oversized Full Sleeve T-Shirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.56,
+      "ratingCount": 43,
+      "prodQty": 134,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 949,
+      "sortOrder": 540,
+      "images": [
+        "1706864858_8548719.jpg?v=2",
+        "1705732719_8696182.jpg?v=2",
+        "1705732719_2554010.jpg?v=2",
+        "1706523547_8983883.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1706864858_8548719.jpg?v=2\", \"1705732719_8696182.jpg?v=2\", \"1705732719_2554010.jpg?v=2\", \"1706523547_8983883.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "avatar-aang-and-appa-men-oversized-full-sleeves-tshirt",
+      "tiptiles": null
+    },
+    {
+      "id": "247869",
+      "product": "Samurai Jack: Blade Of Honor",
+      "artist": {
+        "name": "Samurai Jack",
+        "slug": "samurai-jack-official-merchandise"
+      },
+      "category": {
+        "name": "Oversized Full Sleeve T-Shirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.57,
+      "ratingCount": 21,
+      "prodQty": 302,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 899,
+      "sortOrder": 542,
+      "images": [
+        "1706893053_4254760.jpg?v=2",
+        "1703315190_5589105.jpg?v=2",
+        "1703315190_6257397.jpg?v=2",
+        "1703315190_5750121.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1706893053_4254760.jpg?v=2\", \"1703315190_5589105.jpg?v=2\", \"1703315190_6257397.jpg?v=2\", \"1703315190_5750121.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "tss-originals-samurai-jack-oversized-t-shirts",
+      "tiptiles": null
+    },
+    {
+      "id": "240171",
+      "product": "Batman: Guardian of Gotham",
+      "artist": {
+        "name": "DC Comics",
+        "slug": "dc-justice-league-official-merchandise"
+      },
+      "category": {
+        "name": "Oversized T-Shirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.47,
+      "ratingCount": 36,
+      "prodQty": 1488,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 899,
+      "sortOrder": 565,
+      "images": [
+        "1704720899_2864647.jpg?v=2",
+        "1704720899_6987327.jpg?v=2",
+        "1704720899_7348317.jpg?v=2",
+        "1704720899_6681189.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1704720899_2864647.jpg?v=2\", \"1704720899_6987327.jpg?v=2\", \"1704720899_7348317.jpg?v=2\", \"1704720899_6681189.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "batman-guardian-of-gotham-oversized-t-shirts",
+      "tiptiles": null
+    },
+    {
+      "id": "214247",
+      "product": "Naruto: Uchiha Clan",
+      "artist": {
+        "name": "Naruto",
+        "slug": "naruto-merchandise"
+      },
+      "category": {
+        "name": "Oversized Full Sleeve T-Shirts"
+      },
+      "price": 1199,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.49,
+      "ratingCount": 186,
+      "prodQty": 1379,
+      "prodType": 3,
+      "splPrice": 999,
+      "exclusivePrice": 899,
+      "sortOrder": 578,
+      "images": [
+        "1706892954_8218380.jpg?v=2",
+        "1673597869_5549381.jpg?v=2",
+        "1673597902_8687987.jpg?v=2",
+        "1673597902_7795658.jpg?v=2",
+        "1693380792_3516107.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1706892954_8218380.jpg?v=2\", \"1673597869_5549381.jpg?v=2\", \"1673597902_8687987.jpg?v=2\", \"1673597902_7795658.jpg?v=2\", \"1693380792_3516107.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "naruto-uchiha-clan-oversized-full-sleeve-tshirt",
+      "tiptiles": null
+    },
+    {
+      "id": "244661",
+      "product": "Loki: Master of Mischief",
+      "artist": {
+        "name": "Marvel",
+        "slug": "marvel-official-merchandise"
+      },
+      "category": {
+        "name": "Oversized T-Shirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.65,
+      "ratingCount": 48,
+      "prodQty": 215,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 899,
+      "sortOrder": 584,
+      "images": [
+        "1698906852_5291105.jpg?v=2",
+        "1696666520_9834325.jpg?v=2",
+        "1696666520_1647057.jpg?v=2",
+        "1696666520_4156570.jpg?v=2",
+        "1696666520_1765366.jpg?v=2",
+        "1699369392_7222661.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1698906852_5291105.jpg?v=2\", \"1696666520_9834325.jpg?v=2\", \"1696666520_1647057.jpg?v=2\", \"1696666520_4156570.jpg?v=2\", \"1696666520_1765366.jpg?v=2\", \"1699369392_7222661.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "loki-master-of-mischief-oversized-t-shirts-men",
+      "tiptiles": null
+    },
+    {
+      "id": "218508",
+      "product": "Joker: Forever Evil",
+      "artist": {
+        "name": "DC Comics",
+        "slug": "dc-justice-league-official-merchandise"
+      },
+      "category": {
+        "name": "Oversized T-Shirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.54,
+      "ratingCount": 350,
+      "prodQty": 2513,
+      "prodType": 3,
+      "splPrice": 899,
+      "exclusivePrice": 849,
+      "sortOrder": 590,
+      "images": [
+        "1694232618_7111935.jpg?v=2",
+        "1685447774_3186210.jpg?v=2",
+        "1685447774_9691775.jpg?v=2",
+        "1685447774_8048408.jpg?v=2",
+        "1685447774_3606829.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1694232618_7111935.jpg?v=2\", \"1685447774_3186210.jpg?v=2\", \"1685447774_9691775.jpg?v=2\", \"1685447774_8048408.jpg?v=2\", \"1685447774_3606829.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "joker-forever-evil-oversized-tshirts",
+      "tiptiles": null
+    },
+    {
+      "id": "252086",
+      "product": "Fighter: Ace Of Altitude",
+      "artist": {
+        "name": "Fighter",
+        "slug": "fighter"
+      },
+      "category": {
+        "name": "Oversized T-Shirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.92,
+      "ratingCount": 12,
+      "prodQty": 1240,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 899,
+      "sortOrder": 595,
+      "images": [
+        "1705739128_3454259.jpg?v=2",
+        "1705739142_3831230.jpg?v=2",
+        "1705739142_5372156.jpg?v=2",
+        "1705739142_9536116.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1705739128_3454259.jpg?v=2\", \"1705739142_3831230.jpg?v=2\", \"1705739142_5372156.jpg?v=2\", \"1705739142_9536116.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "fighter-ace-of-altitude-oversized-t-shirts",
+      "tiptiles": null
+    },
+    {
+      "id": "212065",
+      "product": "Daffy Duck: Chill Out",
+      "artist": {
+        "name": "Looney Tunes",
+        "slug": "looney-tunes-official-merchandise"
+      },
+      "category": {
+        "name": "Oversized T-Shirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.61,
+      "ratingCount": 49,
+      "prodQty": 117,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 899,
+      "sortOrder": 596,
+      "images": [
+        "1694690442_7704267.jpg?v=2",
+        "1694690442_1842320.jpg?v=2",
+        "1694690442_6231136.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1694690442_7704267.jpg?v=2\", \"1694690442_1842320.jpg?v=2\", \"1694690442_6231136.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "daffy-duck-chill-out-oversized-tshirts",
+      "tiptiles": null
+    },
+    {
+      "id": "251626",
+      "product": "Solids: Wine Red",
+      "artist": {
+        "name": "The Souled Store",
+        "slug": "the-souled-store-originals"
+      },
+      "category": {
+        "name": "T-Shirts"
+      },
+      "price": 499,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 5,
+      "ratingCount": 1,
+      "prodQty": 1750,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 449,
+      "sortOrder": 600,
+      "images": [
+        "1706545400_7921590.jpg?v=2",
+        "1706545400_9822519.jpg?v=2",
+        "1706545400_3839887.jpg?v=2",
+        "1706545400_6838411.jpg?v=2",
+        "1706545400_7796519.jpg?v=2",
+        "1707124256_9173418.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1706545400_7921590.jpg?v=2\", \"1706545400_9822519.jpg?v=2\", \"1706545400_3839887.jpg?v=2\", \"1706545400_6838411.jpg?v=2\", \"1706545400_7796519.jpg?v=2\", \"1707124256_9173418.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "solids-wine-red-t-shirts-recycled",
+      "tiptiles": null
+    },
+    {
+      "id": "84768",
+      "product": "Solids: Black",
+      "artist": {
+        "name": "The Souled Store",
+        "slug": "the-souled-store-originals"
+      },
+      "category": {
+        "name": "T-Shirts"
+      },
+      "price": 599,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.48,
+      "ratingCount": 736,
+      "prodQty": 6245,
+      "prodType": 3,
+      "splPrice": 449,
+      "exclusivePrice": 399,
+      "sortOrder": 605,
+      "images": [
+        "1695457335_2236257.jpg?v=2",
+        "1695457342_3523121.jpg?v=2",
+        "1690272770_6296836.jpg?v=2",
+        "1690272770_1983958.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1695457335_2236257.jpg?v=2\", \"1695457342_3523121.jpg?v=2\", \"1690272770_6296836.jpg?v=2\", \"1690272770_1983958.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "solids-black-tshirt",
+      "tiptiles": null
+    },
+    {
+      "id": "242285",
+      "product": "Naruto: Itachi Uchiha",
+      "artist": {
+        "name": "Naruto",
+        "slug": "naruto-merchandise"
+      },
+      "category": {
+        "name": "Oversized T-Shirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.66,
+      "ratingCount": 344,
+      "prodQty": 6903,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 899,
+      "sortOrder": 610,
+      "images": [
+        "1698906812_5653598.jpg?v=2",
+        "1697360089_1594472.jpg?v=2",
+        "1697360089_6496777.jpg?v=2",
+        "1697360089_2102869.jpg?v=2",
+        "1699369100_2742485.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1698906812_5653598.jpg?v=2\", \"1697360089_1594472.jpg?v=2\", \"1697360089_6496777.jpg?v=2\", \"1697360089_2102869.jpg?v=2\", \"1699369100_2742485.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "naruto-itachi-uchiha-oversized-t-shirts",
+      "tiptiles": null
+    },
+    {
+      "id": "215457",
+      "product": "Peanuts: Keepin It Cool",
+      "artist": {
+        "name": "Peanuts",
+        "slug": "peanuts-official-merchandise"
+      },
+      "category": {
+        "name": "Oversized T-Shirts"
+      },
+      "price": 1199,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.52,
+      "ratingCount": 328,
+      "prodQty": 1018,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 1099,
+      "sortOrder": 635,
+      "images": [
+        "1684948233_2324403.jpg?v=2",
+        "1684948233_5923613.jpg?v=2",
+        "1684948233_4287719.jpg?v=2",
+        "1684948233_8240612.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1684948233_2324403.jpg?v=2\", \"1684948233_5923613.jpg?v=2\", \"1684948233_4287719.jpg?v=2\", \"1684948233_8240612.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "peanuts-keepin-it-cool-oversized-tshirts",
+      "tiptiles": null
+    },
+    {
+      "id": "253290",
+      "product": "Solids: Indigo Bliss",
+      "artist": {
+        "name": "The Souled Store",
+        "slug": "the-souled-store-originals"
+      },
+      "category": {
+        "name": "T-Shirts"
+      },
+      "price": 449,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 5,
+      "ratingCount": 1,
+      "prodQty": 1716,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 399,
+      "sortOrder": 645,
+      "images": [
+        "1706241404_1840023.jpg?v=2",
+        "1706192615_8156505.jpg?v=2",
+        "1706192615_1894302.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1706241404_1840023.jpg?v=2\", \"1706192615_8156505.jpg?v=2\", \"1706192615_1894302.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "solids-indigo-bliss-t-shirts",
+      "tiptiles": null
+    },
+    {
+      "id": "243854",
+      "product": "F.R.I.E.N.D.S: Doodle Fusion",
+      "artist": {
+        "name": "F.R.I.E.N.D.S",
+        "slug": "friends-official-merchandise"
+      },
+      "category": {
+        "name": "Oversized T-Shirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.68,
+      "ratingCount": 77,
+      "prodQty": 1402,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 899,
+      "sortOrder": 650,
+      "images": [
+        "1698329001_2603221.jpg?v=2",
+        "1698329001_1656868.jpg?v=2",
+        "1698329001_6503019.jpg?v=2",
+        "1698329001_8611760.jpg?v=2",
+        "1699369374_9583480.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1698329001_2603221.jpg?v=2\", \"1698329001_1656868.jpg?v=2\", \"1698329001_6503019.jpg?v=2\", \"1698329001_8611760.jpg?v=2\", \"1699369374_9583480.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "friends-doodle-fusion-oversized-t-shirts",
+      "tiptiles": null
+    },
+    {
+      "id": "251625",
+      "product": "Solids: Airforce Blue",
+      "artist": {
+        "name": "The Souled Store",
+        "slug": "the-souled-store-originals"
+      },
+      "category": {
+        "name": "T-Shirts"
+      },
+      "price": 499,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.5,
+      "ratingCount": 2,
+      "prodQty": 1575,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 449,
+      "sortOrder": 665,
+      "images": [
+        "1706101519_3357739.jpg?v=2",
+        "1706101519_6828965.jpg?v=2",
+        "1706101519_5976055.jpg?v=2",
+        "1706101519_5387205.jpg?v=2",
+        "1706101519_5705875.jpg?v=2",
+        "1707124196_4510495.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1706101519_3357739.jpg?v=2\", \"1706101519_6828965.jpg?v=2\", \"1706101519_5976055.jpg?v=2\", \"1706101519_5387205.jpg?v=2\", \"1706101519_5705875.jpg?v=2\", \"1707124196_4510495.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "solids-airforce-blue-t-shirts",
+      "tiptiles": null
+    },
+    {
+      "id": "192410",
+      "product": "DC: Batman Logo",
+      "artist": {
+        "name": "DC Comics",
+        "slug": "dc-justice-league-official-merchandise"
+      },
+      "category": {
+        "name": "Drop Cut T-Shirts"
+      },
+      "price": 699,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.26,
+      "ratingCount": 401,
+      "prodQty": 1478,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 649,
+      "sortOrder": 675,
+      "images": [
+        "1652943972_9286221.jpg?v=2",
+        "1652943982_5161751.jpg?v=2",
+        "1652263458_7871825.jpg?v=2",
+        "1652263458_1105604.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1652943972_9286221.jpg?v=2\", \"1652943982_5161751.jpg?v=2\", \"1652263458_7871825.jpg?v=2\", \"1652263458_1105604.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "dc-batman-logo-drop-cut-tshirts",
+      "tiptiles": null
+    },
+    {
+      "id": "184241",
+      "product": "Solids: Soft Brown",
+      "artist": {
+        "name": "The Souled Store",
+        "slug": "the-souled-store-originals"
+      },
+      "category": {
+        "name": "Oversized T-Shirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.18,
+      "ratingCount": 290,
+      "prodQty": 10438,
+      "prodType": 3,
+      "splPrice": 699,
+      "exclusivePrice": 649,
+      "sortOrder": 685,
+      "images": [
+        "1690278676_6508826.jpg?v=2",
+        "1690278676_5592377.jpg?v=2",
+        "1690278676_2215408.jpg?v=2",
+        "1690872097_1063460.jpg?v=2",
+        "1699360865_1271824.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1690278676_6508826.jpg?v=2\", \"1690278676_5592377.jpg?v=2\", \"1690278676_2215408.jpg?v=2\", \"1690872097_1063460.jpg?v=2\", \"1699360865_1271824.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "solid-mushroom-oversized-tshirts",
+      "tiptiles": null
+    },
+    {
+      "id": "226938",
+      "product": "TSS Originals: Blue Ripples",
+      "artist": {
+        "name": "The Souled Store",
+        "slug": "the-souled-store-originals"
+      },
+      "category": {
+        "name": "Oversized T-Shirts"
+      },
+      "price": 899,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 5,
+      "ratingCount": 1,
+      "prodQty": 1131,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 849,
+      "sortOrder": 705,
+      "images": [
+        "1706888367_4891609.jpg?v=2",
+        "1706888367_3396896.jpg?v=2",
+        "1706888367_4022728.jpg?v=2",
+        "1706888367_6688846.jpg?v=2",
+        "1706888367_2731274.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1706888367_4891609.jpg?v=2\", \"1706888367_3396896.jpg?v=2\", \"1706888367_4022728.jpg?v=2\", \"1706888367_6688846.jpg?v=2\", \"1706888367_2731274.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "tss-originals-blue-ripples-oversized-tshirt",
+      "tiptiles": null
+    },
+    {
+      "id": "198842",
+      "product": "Black Panther: T'Challa's Clan",
+      "artist": {
+        "name": "Marvel",
+        "slug": "marvel-official-merchandise"
+      },
+      "category": {
+        "name": "Oversized T-Shirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.3,
+      "ratingCount": 110,
+      "prodQty": 528,
+      "prodType": 3,
+      "splPrice": 799,
+      "exclusivePrice": 749,
+      "sortOrder": 715,
+      "images": [
+        "1690282830_4083306.jpg?v=2",
+        "1690282830_6410759.jpg?v=2",
+        "1690282830_5725455.jpg?v=2",
+        "1690282830_9803858.jpg?v=2",
+        "1690282830_4854686.jpg?v=2",
+        "1690282844_6666239.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1690282830_4083306.jpg?v=2\", \"1690282830_6410759.jpg?v=2\", \"1690282830_5725455.jpg?v=2\", \"1690282830_9803858.jpg?v=2\", \"1690282830_4854686.jpg?v=2\", \"1690282844_6666239.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "black-panther-tchalla-clan-oversized-tshirt",
+      "tiptiles": null
+    },
+    {
+      "id": "236412",
+      "product": "Superman: Hope",
+      "artist": {
+        "name": "DC Comics",
+        "slug": "dc-justice-league-official-merchandise"
+      },
+      "category": {
+        "name": "Men Oversized Sweatshirts"
+      },
+      "price": 899,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.67,
+      "ratingCount": 18,
+      "prodQty": 671,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 849,
+      "sortOrder": 5925,
+      "images": ["1701151438_7970148.jpg?v=2", "1700494391_8641146.jpg?v=2"],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1701151438_7970148.jpg?v=2\", \"1700494391_8641146.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "superman-hope-mens-oversized-sweatshirts"
+    },
+    {
+      "id": "239008",
+      "product": "TSS Originals: Black",
+      "artist": {
+        "name": "The Souled Store",
+        "slug": "the-souled-store-originals"
+      },
+      "category": {
+        "name": "Sweatshirts"
+      },
+      "price": 799,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.05,
+      "ratingCount": 41,
+      "prodQty": 461,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 749,
+      "sortOrder": 6060,
+      "images": [
+        "1698143498_7926631.jpg?v=2",
+        "1696087602_5994649.jpg?v=2",
+        "1696087602_8577071.jpg?v=2",
+        "1696087602_4836049.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1698143498_7926631.jpg?v=2\", \"1696087602_5994649.jpg?v=2\", \"1696087602_8577071.jpg?v=2\", \"1696087602_4836049.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "tss-orginals-black-men-sweatshirts"
+    },
+    {
+      "id": "237242",
+      "product": "Garfield: Gangster",
+      "artist": {
+        "name": "Garfield",
+        "slug": "garfield"
+      },
+      "category": {
+        "name": "Men Oversized Sweatshirts"
+      },
+      "price": 1199,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.91,
+      "ratingCount": 11,
+      "prodQty": 159,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 1099,
+      "sortOrder": 6185,
+      "images": [
+        "1702021956_6335650.jpg?v=2",
+        "1702021956_5071834.jpg?v=2",
+        "1702021956_9945237.jpg?v=2",
+        "1702021956_2237380.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1702021956_6335650.jpg?v=2\", \"1702021956_5071834.jpg?v=2\", \"1702021956_9945237.jpg?v=2\", \"1702021956_2237380.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "garfield-gangster-men-oversized-sweatshirts"
+    },
+    {
+      "id": "240220",
+      "product": "TSS Originals: Blazing Black",
+      "artist": {
+        "name": "The Souled Store",
+        "slug": "the-souled-store-originals"
+      },
+      "category": {
+        "name": "Men Oversized Sweatshirts"
+      },
+      "price": 1399,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.63,
+      "ratingCount": 41,
+      "prodQty": 280,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 1299,
+      "sortOrder": 6210,
+      "images": [
+        "1702675636_8989204.jpg?v=2",
+        "1700210886_1858051.jpg?v=2",
+        "1700210886_7632995.jpg?v=2",
+        "1700210886_6181330.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1702675636_8989204.jpg?v=2\", \"1700210886_1858051.jpg?v=2\", \"1700210886_7632995.jpg?v=2\", \"1700210886_6181330.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "tss-originals-blazing-black-mens-oversized-sweatshirts"
+    },
+    {
+      "id": "236398",
+      "product": "TSS Originals: Fiery Dragon",
+      "artist": {
+        "name": "The Souled Store",
+        "slug": "the-souled-store-originals"
+      },
+      "category": {
+        "name": "Men Oversized Sweatshirts"
+      },
+      "price": 1199,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.82,
+      "ratingCount": 40,
+      "prodQty": 88,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 1099,
+      "sortOrder": 6435,
+      "images": [
+        "1700907693_1931167.jpg?v=2",
+        "1700907693_6968072.jpg?v=2",
+        "1700907693_8932485.jpg?v=2",
+        "1700907693_8232207.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1700907693_1931167.jpg?v=2\", \"1700907693_6968072.jpg?v=2\", \"1700907693_8932485.jpg?v=2\", \"1700907693_8232207.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "tss-originals-fiery-dragon-mens-oversized-sweatshirts"
+    },
+    {
+      "id": "238691",
+      "product": "TSS Originals: Colorblock",
+      "artist": {
+        "name": "The Souled Store",
+        "slug": "the-souled-store-originals"
+      },
+      "category": {
+        "name": "Men Oversized Sweatshirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.47,
+      "ratingCount": 30,
+      "prodQty": 171,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 899,
+      "sortOrder": 6490,
+      "images": [
+        "1702062699_1297411.jpg?v=2",
+        "1702062699_8135559.jpg?v=2",
+        "1702062699_8491794.jpg?v=2",
+        "1702062699_9016469.jpg?v=2",
+        "1703922356_2982675.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1702062699_1297411.jpg?v=2\", \"1702062699_8135559.jpg?v=2\", \"1702062699_8491794.jpg?v=2\", \"1702062699_9016469.jpg?v=2\", \"1703922356_2982675.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "tss-originals-colorblock-mens-sweatshirts"
+    },
+    {
+      "id": "236403",
+      "product": "Star Wars: Boba Fett",
+      "artist": {
+        "name": "Star Wars",
+        "slug": "starwars-official-merchandise"
+      },
+      "category": {
+        "name": "Men Oversized Sweatshirts"
+      },
+      "price": 999,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.64,
+      "ratingCount": 81,
+      "prodQty": 479,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 899,
+      "sortOrder": 6780,
+      "images": [
+        "1702675389_8829070.jpg?v=2",
+        "1701839445_2471542.jpg?v=2",
+        "1701839445_9340053.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1702675389_8829070.jpg?v=2\", \"1701839445_2471542.jpg?v=2\", \"1701839445_9340053.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "star-wars-boba-fett-mens-oversized-sweatshirts"
+    },
+    {
+      "id": "240242",
+      "product": "Truck Art: Deadpool",
+      "artist": {
+        "name": "Marvel",
+        "slug": "marvel-official-merchandise"
+      },
+      "category": {
+        "name": "Men Oversized Sweatshirts"
+      },
+      "price": 1399,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.63,
+      "ratingCount": 38,
+      "prodQty": 381,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 1299,
+      "sortOrder": 6795,
+      "images": [
+        "1702675667_4108342.jpg?v=2",
+        "1700139386_9254089.jpg?v=2",
+        "1700139386_5795496.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1702675667_4108342.jpg?v=2\", \"1700139386_9254089.jpg?v=2\", \"1700139386_5795496.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "truck-art-deadpool-mens-oversized-sweatshirts"
+    },
+    {
+      "id": "182488",
+      "product": "Superman: Man of Steel",
+      "artist": {
+        "name": "DC Comics",
+        "slug": "dc-justice-league-official-merchandise"
+      },
+      "category": {
+        "name": "Sweatshirts"
+      },
+      "price": 799,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 3.43,
+      "ratingCount": 123,
+      "prodQty": 1564,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 749,
+      "sortOrder": 6810,
+      "images": [
+        "1665832629_5408793.jpg?v=2",
+        "1639580406_9637948.jpg?v=2",
+        "1639580416_1782066.jpg?v=2",
+        "1639580424_4127428.jpg?v=2",
+        "1639580435_7002378.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1665832629_5408793.jpg?v=2\", \"1639580406_9637948.jpg?v=2\", \"1639580416_1782066.jpg?v=2\", \"1639580424_4127428.jpg?v=2\", \"1639580435_7002378.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "superman-man-of-steel-mens-sweatshirt"
+    },
+    {
+      "id": "239012",
+      "product": "Zip-Up: Off-White",
+      "artist": {
+        "name": "The Souled Store",
+        "slug": "the-souled-store-originals"
+      },
+      "category": {
+        "name": "Men Oversized Sweatshirts"
+      },
+      "price": 1399,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.57,
+      "ratingCount": 60,
+      "prodQty": 431,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 1299,
+      "sortOrder": 7000,
+      "images": [
+        "1701756766_2110216.jpg?v=2",
+        "1701838721_7824224.jpg?v=2",
+        "1701756766_8020162.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1701756766_2110216.jpg?v=2\", \"1701838721_7824224.jpg?v=2\", \"1701756766_8020162.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "tss-originals-off-white-mens-oversized-sweatshirts"
+    },
+    {
+      "id": "237222",
+      "product": "Superman: Invincible",
+      "artist": {
+        "name": "DC Comics",
+        "slug": "dc-justice-league-official-merchandise"
+      },
+      "category": {
+        "name": "Men Oversized Sweatshirts"
+      },
+      "price": 899,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.65,
+      "ratingCount": 23,
+      "prodQty": 572,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 799,
+      "sortOrder": 7070,
+      "images": [
+        "1700821382_5142348.jpg?v=2",
+        "1700821382_1902494.jpg?v=2",
+        "1700821382_7342317.jpg?v=2",
+        "1700821382_6306093.jpg?v=2",
+        "1700821382_3845108.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1700821382_5142348.jpg?v=2\", \"1700821382_1902494.jpg?v=2\", \"1700821382_7342317.jpg?v=2\", \"1700821382_6306093.jpg?v=2\", \"1700821382_3845108.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "superman-invincible-men-oversized-sweatshirts"
+    },
+    {
+      "id": "237239",
+      "product": "Hulk: Smash Time",
+      "artist": {
+        "name": "Marvel",
+        "slug": "marvel-official-merchandise"
+      },
+      "category": {
+        "name": "Men Oversized Sweatshirts"
+      },
+      "price": 899,
+      "genderType": 1,
+      "stock": 0,
+      "avgRating": 4.59,
+      "ratingCount": 44,
+      "prodQty": 511,
+      "prodType": 3,
+      "splPrice": 0,
+      "exclusivePrice": 849,
+      "sortOrder": 7215,
+      "images": [
+        "1700281688_9030186.jpg?v=2",
+        "1697897724_7498199.jpg?v=2",
+        "1697897724_1819563.jpg?v=2"
+      ],
+      "imagesNew": "{\"unisex\": [], \"male\": [\"1700281688_9030186.jpg?v=2\", \"1697897724_7498199.jpg?v=2\", \"1697897724_1819563.jpg?v=2\"], \"female\": []}",
+      "extraPrice": 0,
+      "isPrintable": false,
+      "jitValue": "REGULAR",
+      "product_slug": "hulk-smash-time-men-oversized-sweatshirts"
+    }
+  ]
+}
